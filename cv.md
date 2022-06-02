@@ -13,7 +13,8 @@
 - Vegas Pro
 
 ## 5.
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
