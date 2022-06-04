@@ -1,1 +1,1 @@
-https://danilatunnikov.github.io/rsschool-cv/cv
+https://DanilaTunnikov.github.io/rsschool-cv/cv
